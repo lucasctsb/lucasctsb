@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, eu sou o Lucas. <strong>Desenvolvedor Python</strong> apaixonado por tecnologia e design.<br>
-  Trabalho com alguns projetos relacionados à análise de dados e rede.
+  Atualmente, trabalho com análise de dados e rede.
 </p>
 
 <p align="left">
