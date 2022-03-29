@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, SAS, JavaScript, MySQL e PHP.</strong>
+  🤓 Linguagens: <strong>Python, SAS, JavaScript, MySQL e PHP.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Jupyter Notebook e SAS Studio.</strong>
+  💻 Ferramentas: <strong>VS Code, Jupyter Notebook e SAS Studio.</strong>
 </p>
 
 <p align="left">
