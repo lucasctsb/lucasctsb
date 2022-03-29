@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Podemos bater um papo através das redes abaixo: ⤵️
+  📧 Podemos bater um papo através das redes abaixo: ⤵️
 </p>
 
 <p align="left">
