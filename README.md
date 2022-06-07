@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/z2MmHmbrji0AAAAC/spiderman-tobey.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Spider Man">
+<img src="https://c.tenor.com/z2MmHmbrji0AAAAC/spiderman-tobey.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Spider Man">
 
 <p align="left"> 
   Olá, eu sou o Lucas. <strong>Desenvolvedor Python</strong> apaixonado por tecnologia e design.<br>
