@@ -1,5 +1,3 @@
-<img src="https://c.tenor.com/z2MmHmbrji0AAAAC/spiderman-tobey.gif" min-width="50px" max-width="50px" width="50px" align="right" alt="Spider Man">
-
 <p align="left"> 
   Olá, eu sou o Lucas. <strong>Desenvolvedor Python</strong> apaixonado por tecnologia e design.<br>
   Atualmente, trabalho com análise de dados e rede.
