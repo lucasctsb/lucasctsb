@@ -1,6 +1,5 @@
 <p align="left"> 
-  Olá, eu sou o Lucas. <strong>Desenvolvedor Python</strong> apaixonado por tecnologia e design.<br>
-  Atualmente, trabalho com análise de dados e rede.
+  Olá, eu sou o Lucas. <strong>Cientista de dados</strong> apaixonado por tecnologia e design.<br>
 </p>
 
 <p align="left">
