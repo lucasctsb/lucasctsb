@@ -1,4 +1,5 @@
-Hi, I'm Lucas!
+# Hi, I'm Lucas!
+
 I'm a university student studying actuarial science with a passion for data analysis and machine learning. My main programming language is Python, and I also have experience using SAS. I'm proficient in a variety of Python packages, including:
 
 pandas
