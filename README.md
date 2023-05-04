@@ -1,23 +1,13 @@
-<p align="left"> 
-  Olá, eu sou o Lucas. Entusiasta em analise de dados e apaixonado por tecnologia.<br>
-</p>
+Hi, I'm Lucas!
+I'm a university student studying actuarial science with a passion for data analysis and machine learning. My main programming language is Python, and I also have experience using SAS. I'm proficient in a variety of Python packages, including:
 
-<p align="left">
-  🤓 Linguagens: <strong>Python, SAS, JavaScript, MySQL e PHP.</strong>
-</p>
+pandas
+numpy
+scikit-learn
+TensorFlow
+matplotlib
+I'm always looking to learn new skills and take on new challenges. Currently, I'm focusing on developing my skills in deep learning and natural language processing. I'm excited to continue exploring the possibilities of machine learning and see how it can be applied to actuarial science and other real-world problems.
 
-<p align="left">
-  💻 Ferramentas: <strong>VS Code, Jupyter Notebook e SAS Studio.</strong>
-</p>
+In addition to my work in data analysis, I'm also interested in web development and software engineering. I'm always seeking out new opportunities to collaborate on interesting projects and expand my skill set.
 
-<p align="left">
-  📧 Podemos bater um papo através das redes abaixo: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:lucas.ctsb@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/in/lucasctsb" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN/" /></a>
-</p>  
+Thanks for checking out my profile! Feel free to reach out if you're interested in connecting or collaborating on a project.
