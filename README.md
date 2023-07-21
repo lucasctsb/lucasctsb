@@ -11,7 +11,7 @@ Utilizando Python e suas principais bibliotecas, extraio insights valiosos a par
 
 - 💻 **Linguagens**: Minha linguagem de programação principal é o Python. Além dela, tenhos ótimos conhecimentos em SQL e SAS. Atualmente tenho praticado minhas habilidades em C++ para projetos voltados à machine learning.
 - 💬 Meu objetivo é combinar os conhecimentos das Ciências Atuariais com a Ciência de Dados para desenvolver abordagens mais abrangentes e precisas na avaliação de riscos, e modelagem.
-- 🕹️ Digamos que eu gostei **muito** de Sonic 😁
+- 🕹️ Digamos que eu goste **MUITO** de Sonic 😁
 
 <p align="left">
   <a href="mailto:lucas.ctsb@gmail.com" alt="Gmail">
