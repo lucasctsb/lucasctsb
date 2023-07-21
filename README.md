@@ -1,15 +1,7 @@
-# Hi, I'm Lucas!
+Sou um estudante de Ciências Atuariais com uma grande paixão pela área de Ciência de Dados.
 
-I'm a university student studying actuarial science with a passion for data analysis and machine learning. My main programming language is Python, and I also have experience using SAS and SQL. I'm proficient in a variety of Python packages, including:
+Utilizando Python e suas principais bibliotecas, extraio insights valiosos a partir de dados complexos, permitindo uma compreensão mais profunda de padrões e tendências relevantes. Essas análises fundamentadas são essenciais para embasar decisões estratégicas e impulsionar soluções inovadoras em projetos de ciência de dados.
 
-- Pandas
-- Numpy
-- scikit-learn
-- TensorFlow
-- Matplotlib
+Meu objetivo é combinar os conhecimentos das Ciências Atuariais com a Ciência de Dados para desenvolver abordagens mais abrangentes e precisas na avaliação de riscos, e modelagem.
 
-I'm always looking to learn new skills and take on new challenges. As an actuarial science student, I'm particularly interested in using data to model and assess risk. I'm excited to continue exploring the possibilities of data analysis and modeling in actuarial science and other real-world applications.
-
-In addition to my work in actuarial science, I'm also interested in web development and software engineering. I'm always seeking out new opportunities to collaborate on interesting projects and expand my skill set.
-
-Thanks for checking out my profile! Feel free to reach out if you're interested in connecting or collaborating on a project.
+Acredito que a união dessas duas áreas possibilitará uma análise mais sofisticada e eficiente, resultando em estratégias mais robustas e seguras para diferentes setores. Além disso, pretendo contribuir para o desenvolvimento de modelos preditivos que auxiliem na tomada de decisões estratégicas e no planejamento de longo prazo.
