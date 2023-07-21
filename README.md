@@ -1,7 +1,7 @@
 <img src="" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou o Lucas! 
+  Olá, eu sou o Lucas!<br>
   Sou um estudante de Ciências Atuariais com uma grande paixão pela área de <strong>Ciência de Dados</strong>.<br>
   Utilizando Python e suas principais bibliotecas, extraio insights valiosos a partir de dados complexos, permitindo uma compreensão mais   profunda de padrões e tendências relevantes. Essas análises fundamentadas são essenciais para embasar decisões estratégicas e     
   impulsionar soluções inovadoras em projetos de ciência de dados..
