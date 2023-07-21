@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  💻 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
 
 <p align="left">
