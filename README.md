@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif" min-width="250px" max-width="250px" width="400px" align="right">
+<img src="https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif" min-width="50px" max-width="50px" width="200px" align="right">
 
 <p align="left"> 
   Olá, eu sou o Lucas!<br>
