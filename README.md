@@ -16,6 +16,6 @@ Utilizando Python e suas principais bibliotecas, extraio insights valiosos a par
   <a href="mailto:lucas.ctsb@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucasctsb" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>
