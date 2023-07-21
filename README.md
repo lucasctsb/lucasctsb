@@ -9,7 +9,7 @@ Sou um estudante de Ciências Atuariais com uma grande paixão pela área de Ci�
 
 Utilizando Python e suas principais bibliotecas, extraio insights valiosos a partir de dados complexos, permitindo uma compreensão mais profunda de padrões e tendências relevantes. Essas análises fundamentadas são essenciais para embasar decisões estratégicas e impulsionar soluções inovadoras em projetos de ciência de dados.
 
-- 💻 **Linguagens**: Python, C++, SQL e SAS
+- 💻 **Linguagens**: Minha linguagem de programação principal é o Python. Além dela, tenhos ótimos conhecimentos em SQL e SAS.
 - 💬 Meu objetivo é combinar os conhecimentos das Ciências Atuariais com a Ciência de Dados para desenvolver abordagens mais abrangentes e        precisas na avaliação de riscos, e modelagem.
 
 <p align="left">
