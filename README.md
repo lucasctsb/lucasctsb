@@ -10,7 +10,7 @@ Sou um estudante de Estatística com uma grande paixão pela área de Ciência d
 Utilizando Python e suas principais bibliotecas, extraio insights valiosos a partir de dados complexos, permitindo uma compreensão mais profunda de padrões e tendências relevantes. Essas análises fundamentadas são essenciais para embasar decisões estratégicas e impulsionar soluções inovadoras em projetos de ciência de dados.
 
 - 💻 **Linguagens**: Minha linguagem de programação principal é o Python. Além dela, tenhos ótimos conhecimentos em SQL e SAS. Atualmente tenho praticado minhas habilidades em C++ para projetos voltados à machine learning.
-- 💬 Meu objetivo é combinar os conhecimentos das Ciências Atuariais com a Ciência de Dados para desenvolver abordagens mais abrangentes e precisas na avaliação de riscos, e modelagem.
+- 💬 Meu objetivo é combinar os conhecimentos de Estatística com a Ciência de Dados para desenvolver abordagens mais abrangentes e precisas na avaliação de riscos, e modelagem.
 - 🕹️ Digamos que eu goste **MUITO** de Sonic 😁
 
 <p align="left">
