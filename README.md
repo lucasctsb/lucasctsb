@@ -1,6 +1,4 @@
-
 <p align="center">
-
   <img src="https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif" height="200" />
 </p>
 
