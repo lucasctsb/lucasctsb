@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/yyofCYnEXksAAAAC/sonic-the-hedgehog-classic-sonic.gif" height="200" />
-</p>
-
 ### Olá, eu sou o Lucas!
 Sou um estudante de Estatística com uma grande paixão pela área de Ciência de Dados.
 
