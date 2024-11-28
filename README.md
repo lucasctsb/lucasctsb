@@ -1,4 +1,5 @@
-Hi there, I'm Lucas! 👋
+##Hi there, I'm Lucas! 👋
+
 I'm a Data Scientist with a strong foundation in Statistics and a passion for uncovering insights through Data Science.
 
 Using Python and its core libraries, I analyze complex datasets to extract valuable insights, providing a deeper understanding of patterns and trends. These data-driven analyses serve as the foundation for strategic decision-making and innovative solutions in data science projects.
