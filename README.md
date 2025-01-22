@@ -1,11 +1,5 @@
-# Hi there, I'm Lucas! 👋
+Profissional com 4+ anos de experiência em suporte técnico e infraestrutura de redes, apaixonado por transformar desafios tecnológicos em soluções práticas. Minha expertise inclui diagnóstico, configuração e manutenção de sistemas e dispositivos de rede, sempre buscando garantir alta performance e estabilidade para ambientes críticos.
 
-I'm a Data Scientist with a strong foundation in Statistics and a passion for uncovering insights through Data Science.
+Tenho um perfil analítico e orientado a resultados, com histórico comprovado de otimizar processos tecnológicos e resolver problemas complexos em tempo hábil. Estou sempre em busca de novas tecnologias e práticas que possam agregar valor às operações de TI, com foco em automação e eficiência.
 
-Using Python and its core libraries, I analyze complex datasets to extract valuable insights, providing a deeper understanding of patterns and trends. These data-driven analyses serve as the foundation for strategic decision-making and innovative solutions in data science projects.
-
-💻 Languages: My primary programming language is Python. I also have solid knowledge of SQL and SAS. Recently, I've been practicing C++ to expand my skills in machine learning-focused projects.
-
-💬 Objective: My goal is to combine Statistical expertise with Data Science to develop comprehensive and precise approaches for risk assessment and modeling.
-
-Feel free to connect and collaborate!
+Atualmente, busco oportunidades para expandir meu conhecimento em Python e automação de redes, e contribuir com minha experiência para projetos que demandem inovação, qualidade e impacto positivo.
