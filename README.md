@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/yfMspzTf--UAAAAe/python-memes-snake.png" alt="python" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/yfMspzTf--UAAAAe/python-memes-snake.png" alt="python" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   Hi, I'm Lucas. I like math, GYM and <strong>Python</strong>.<br>
