@@ -1,4 +1,4 @@
-<img src="https://i.programmerhumor.io/2021/08/programmerhumor-io-java-memes-python-memes-85ed9fef26e6dac.jpg" alt="python" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/yfMspzTf--UAAAAe/python-memes-snake.png" alt="python" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hi, I'm Lucas. I like math, GYM and <strong>Python</strong>.<br>
